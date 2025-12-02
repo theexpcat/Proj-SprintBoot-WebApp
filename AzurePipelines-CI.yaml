@@ -1,4 +1,4 @@
-# we have used self hosted runners
+# we have used self hosted runnerss
 pool:
   name: ADO-AgentPool
   demands: maven
